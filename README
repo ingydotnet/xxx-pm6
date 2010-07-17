@@ -1,1 +1,17 @@
 Perl 6 Implementation of XXX.pm
+
+== INSTALLATION
+
+With a fresh copy of http://github.com/masak/ufo
+
+    > ufo && make test install purge
+
+== SYNOPSIS
+
+    use XXX;
+    
+    WWW($anything);     # warn with a YAML dump
+    XXX($anything);     # exit with a YAML dump
+    YYY($anything);     # print a YAML dump
+    ZZZ($anything);     # die with a YAML dump
+

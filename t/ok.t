@@ -1,5 +1,5 @@
 use Test;
 
-use XXX;
+plan 1;
 
-ok 'XXX modules loads without errors';
+eval_lives_ok 'use XXX; ', 'XXX modules loads without errors';

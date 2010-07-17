@@ -1,5 +1,7 @@
 module XXX;
 
+our $*VERSION = '0.01';
+
 use YAML;
 
 sub WWW($o) is export {
