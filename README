@@ -1,10 +1,6 @@
-Perl 6 Implementation of XXX.pm
+Perl 6 Implementation of XXX.pm.
 
-== INSTALLATION
-
-With a fresh copy of http://github.com/masak/ufo
-
-    > ufo && make test install purge
+(See: http://search.cpan.org/dist/XXX/lib/XXX.pm )
 
 == SYNOPSIS
 
@@ -14,4 +10,10 @@ With a fresh copy of http://github.com/masak/ufo
     XXX($anything);     # exit with a YAML dump
     YYY($anything);     # print a YAML dump
     ZZZ($anything);     # die with a YAML dump
+
+== INSTALLATION
+
+With a fresh copy of http://github.com/masak/ufo
+
+    > ufo && make test install purge
 
