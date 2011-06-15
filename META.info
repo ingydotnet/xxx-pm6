@@ -1,0 +1,8 @@
+{
+    "name"        : "XXX",
+    "version"     : "*",
+    "description" : "See Your Data in the Nude",
+    "depends"     : [ "YAML" ],
+    "source-type" : "git",
+    "source-url"  : "git://github.com/ingydotnet/xxx-pm6.git"
+}
