@@ -1,4 +1,4 @@
-module XXX;
+unit module XXX;
 
 our $*VERSION = '0.01';
 
